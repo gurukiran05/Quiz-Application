@@ -80,7 +80,7 @@ quiz-application/
 
 ### assets
 
-- **background-music1.mp3, background-music2.mp3, ...**: Background music files used in the application.
+- **bg.jpg, play.mp3, correct.mp3, wrong.mp3**: Background music files and images used in the application.
 
 ## Running the Application
 
